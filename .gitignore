@@ -1,0 +1,9 @@
+*~
+*.o
+tmp*
+a.out
+9cc
+
+# dockerコマンドが長いので
+# aliasを設定するためのスクリプト
+.alias.sh

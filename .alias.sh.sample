@@ -1,0 +1,1 @@
+alias compilerbook='docker run --rm -v ~/9cc:/9cc -w /9cc --platform linux/amd64 compilerbook'
